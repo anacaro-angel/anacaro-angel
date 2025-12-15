@@ -12,7 +12,7 @@ Dentro de mi experiencia he visto que los datos son la base para la toma de deci
 Ateción al detalle | Organización | Team player | Cross- functional | Optimización de procesos | Trabajo orientado a resultados  <br><br>
 
 ### Contacto :page_with_curl:
-* [Perfil de LinkedIn](www.linkedin.com/in/ana-carolina-angel-del-rio)<br><br><br>
+* [Perfil de LinkedIn](https://www.linkedin.com/in/ana-carolina-angel-del-rio/)<br><br><br>
 
 ## Proyectos :keyboard:
 
