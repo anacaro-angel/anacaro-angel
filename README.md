@@ -61,7 +61,7 @@ Ateción al detalle | Organización | Team player | Cross- functional | Optimiza
    * Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
   Con el objetivo de identificar en qué ciudades invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población.
 
-  Las habilidades desarrolladas fueron:
+   Las habilidades desarrolladas fueron:
    * Crear un dataset único y limpio a partir de dos fuentes diferentes.
    * Aplicar limpieza, estandarización y validación de tipos de datos.
    * Filtrar y enfocar el análisis en ciudades latinoamericanas.
