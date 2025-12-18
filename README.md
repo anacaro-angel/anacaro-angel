@@ -44,9 +44,9 @@ Datail-oriented | Strong Organization Skills | Team player | Cross- functional c
    * Validating and performing quality assurance (QA) through total and margin checks.
    * Drafting an executive report with visualizations using the Context → Finding → Implication (C→F→I) method.<br><br>
      
-3. [**Executive Summary and Retention for MercadoLibre**]<br>
+3. [**Executive Summary and Retention for MercadoLibre**](https://github.com/anacaro-angel/mercadolibre_summary)<br>
 
-   Conversion funnel mapping to identify custmer churn and evaluate user retention by cohorts using SQL.
+   Conversion funnel mapping to identify customer churn and evaluate user retention by cohorts using SQL.
 
    Skills developed included:
    * Building multi-stage funnels in SQL using CTEs.
@@ -56,7 +56,7 @@ Datail-oriented | Strong Organization Skills | Team player | Cross- functional c
    * Validating results and communicating executive findings.
 
 
-4. [**Urban Mobility and Economic Productivity in LATAM Cities**] <br>
+5. [**Urban Mobility and Economic Productivity in LATAM Cities**] <br>
 
    Data cleaning, integration, and analysis with Python using the following datasets:
    * Urban Mobility: TomTom Traffic Index (real-time traffic data).
