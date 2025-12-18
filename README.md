@@ -27,7 +27,7 @@ Datail-oriented | Strong Organization Skills | Team player | Cross- functional c
    * Development of interactive dashboards.
    * Executive communication using the C-F-I method (Context, Finding, Implication).<br><br>
    
-2. [**AdventureWorks Financial Performance Analysis**]<br>
+2. [**AdventureWorks Financial Performance Analysis**](https://github.com/anacaro-angel/adventureworks_SQL)<br>
 
    Analysis of the AdventureWorks dataset subset using the following tables:
    * **ventas_2017:** order line transactions (2017).
