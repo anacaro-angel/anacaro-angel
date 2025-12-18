@@ -17,7 +17,7 @@ Datail-oriented | Strong Organization Skills | Team player | Cross- functional c
 
 ## Proyects :keyboard:
 
-1. [**Walmart Sales Executive Summary**]<br>
+1. [**Walmart Sales Executive Summary**](https://github.com/anacaro-angel/walmart_summary)<br>
 
    A weekly sales dataset from 2012 was analyzed with the objective of addressing key business questions through well-defined KPIs and clear visualizations.
 
