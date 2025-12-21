@@ -64,10 +64,9 @@ Datail-oriented | Strong Organization Skills | Team player | Cross- functional c
    The objective was to identify which cities should be prioritized for investment in transportation infrastructure to enhance productivity and improve population well-being
 
    Skills developed included:
-   * Creating a unified and clean dataset from two different sources.
    * Applying data cleaning, standardization, and type validation.
    * Filtering and focusing the analysis on Latin American cities.
-   * Calculating aggregated indicators (by city–year).
+   * Creating a unified and clean dataset from two different sources.
    * Conducting exploratory and visual analyses.
-   * Documenting all steps in Jupyter Notebook and exporting a final dataset ready for analysis.
+   * Executive summary
 
