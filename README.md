@@ -61,12 +61,28 @@ Datail-oriented | Strong Organization Skills | Team player | Cross- functional c
    Data cleaning, integration, and analysis with Python using the following datasets:
    * Urban Mobility: TomTom Traffic Index (real-time traffic data).
    * Urban Economy: OECD Cities (GDP per capita, unemployment, and population).
-   The objective was to identify which cities should be prioritized for investment in transportation infrastructure to enhance productivity and improve population well-being
+   The objective was to identify which cities should be prioritized for investment in transportation infrastructure to enhance productivity and improve population well-being.
 
    Skills developed included:
    * Applying data cleaning, standardization, and type validation.
    * Filtering and focusing the analysis on Latin American cities.
    * Creating a unified and clean dataset from two different sources.
    * Conducting exploratory and visual analyses.
-   * Executive summary
+   * Executive summary.<br><br>
 
+5. [**Dataframes analysis of telecommunications company ConnectaTel**](https://github.com/anacaro-angel/connectatel_analysis)<br>
+
+   To explore, clean, and analyze these datasets in order to develop a clear, reliable, and actionable understanding of customer usage behavior and how it varies across different user       segments: 
+   * plan.csv: contains the details of the current mobile plans offered by the company, including: price, minutes, GB, cost of additional usage.
+   * user_latam.csv: provides customer information, including: age, city, resgitration date, susbscribed plan.
+   * usage.csv: Contains the actual usage behavior of each customer, specifically call duration and message length.
+   The objective was to identify usage patterns, detect atypical behaviors and understand which customer segments exhibit differentiated needs with the purpose of optimizing the commercial offering and enhancing the overall user experience.
+
+   Skills developed included:
+   * Integrate and clean datasets originating from three different sources.
+   * Apply validation techniques, data type standardization, and detection of inconsistent values to ensure data quality and reliability.
+   * Build a statistical profile of customer usage (calls and messages) at both the individual level and across demographic segments.
+   * Identify outliers and atypical behaviors using statistical and visual methods.
+   * Develop customer segmentations based on age, country, and usage behavior.
+   * Visualize differences across segments and extract commercially relevant insights to support strategic decision‑making.
+   * Document the entire process in a Jupyter Notebook to ensure transparency, reproducibility, and clarity.
