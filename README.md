@@ -73,9 +73,9 @@ Datail-oriented | Strong Organization Skills | Team player | Cross- functional c
 5. [**Dataframes analysis of telecommunications company ConnectaTel**](https://github.com/anacaro-angel/connectatel_analysis)<br>
 
    To explore, clean, and analyze these datasets in order to develop a clear, reliable, and actionable understanding of customer usage behavior and how it varies across different user       segments: 
-   * plan.csv: contains the details of the current mobile plans offered by the company, including: price, minutes, GB, cost of additional usage.
-   * user_latam.csv: provides customer information, including: age, city, resgitration date, susbscribed plan.
-   * usage.csv: Contains the actual usage behavior of each customer, specifically call duration and message length.
+   * **plan.csv:** contains the details of the current mobile plans offered by the company, including: price, minutes, GB, cost of additional usage.
+   * **user_latam.csv:** provides customer information, including: age, city, resgitration date, susbscribed plan.
+   * **usage.csv:** Contains the actual usage behavior of each customer, specifically call duration and message length.
    The objective was to identify usage patterns, detect atypical behaviors and understand which customer segments exhibit differentiated needs with the purpose of optimizing the commercial offering and enhancing the overall user experience.
 
    Skills developed included:
